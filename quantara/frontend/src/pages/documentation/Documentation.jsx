@@ -33,7 +33,7 @@ const Documentation = () => {
         {
           type: 'text',
           value:
-            'Quantara is a decentralized platform designed to help users easily amplify their investments in digital assets like ETH. \n This documentation provides a comprehensive guide on using SpotNet and making the most of its features.',
+            'Quantara is a decentralized platform designed to help users easily amplify their investments in digital assets like ETH. \n This documentation provides a comprehensive guide on using Quantara and making the most of its features.',
         },
       ],
     },
